@@ -1,2 +1,3 @@
-# SW2-Continuous-Integration
-Continuous Integration Workshop - Gym Membership Quote using Python, Jenkins and GitHub Actions
+## Continuous Integration
+
+This project uses Jenkins to run automated Python tests.
